@@ -1,2 +1,2 @@
 # refine-gpt
-This is a python script for text summary(example: Book Summary) using OpenAI API with summary data broken with semantic chunking, vectorising, clustering , generating summary of each cluster. This way the order of the summary data wouldn't be maintained but the essence of the whole book may be trickled down in the summary
+This is a python script for text summary(example: Book Summary) with summary data broken with semantic chunking, vectorising, clustering , generating summary of each cluster. This way the order of the summary data wouldn't be maintained but the essence of the whole book may be trickled down in the summary
